@@ -1,3 +1,6 @@
+https://colab.research.google.com/
+
+
 - # 👋 Hi, I’m Gajanan Purud
 - 👀 I’m interested in ...AI/ML [MACHINE LEARNING ENTUSIAST]
 - 🌱 Btech in Electronics and Telecommunication Engineering With Honours Degree In Artificial Intelligence And 
